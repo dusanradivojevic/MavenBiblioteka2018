@@ -48,7 +48,7 @@ public class DodajKnjiguProzor extends JFrame {
 	public DodajKnjiguProzor() {
 		setResizable(false);
 		setIconImage(
-				Toolkit.getDefaultToolkit().getImage(DodajKnjiguProzor.class.getResource("/icons/bluej-84-toned.jpg")));
+				Toolkit.getDefaultToolkit().getImage(DodajKnjiguProzor.class.getResource("/rs/ac/bg/fon/jgrass/icons/bluej-84-toned.jpg")));
 		setTitle("Dodaj knjigu");
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		setBounds(100, 100, 306, 281);

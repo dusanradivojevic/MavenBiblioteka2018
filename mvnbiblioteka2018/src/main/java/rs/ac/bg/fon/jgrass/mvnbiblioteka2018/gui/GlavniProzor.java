@@ -73,7 +73,7 @@ public class GlavniProzor extends JFrame {
 				izlaz();
 			}
 		});
-		setIconImage(Toolkit.getDefaultToolkit().getImage(GlavniProzor.class.getResource("/icons/bluej-84-toned.jpg")));
+		setIconImage(Toolkit.getDefaultToolkit().getImage(GlavniProzor.class.getResource("/rs/ac/bg/fon/jgrass/icons/bluej-84-toned.jpg")));
 		setTitle("Biblioteka");
 		setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
 		setBounds(100, 100, 538, 295);

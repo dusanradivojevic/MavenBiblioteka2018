@@ -52,7 +52,7 @@ public class ObrisiKnjiguProzor extends JFrame {
 	public ObrisiKnjiguProzor(Knjiga k) {
 		setResizable(false);
 		setIconImage(
-				Toolkit.getDefaultToolkit().getImage(ObrisiKnjiguProzor.class.getResource("/icons/bluej-84-toned.jpg")));
+				Toolkit.getDefaultToolkit().getImage(ObrisiKnjiguProzor.class.getResource("/rs/ac/bg/fon/jgrass/icons/bluej-84-toned.jpg")));
 		setTitle("Obrisi knjigu");
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		setBounds(100, 100, 306, 281);

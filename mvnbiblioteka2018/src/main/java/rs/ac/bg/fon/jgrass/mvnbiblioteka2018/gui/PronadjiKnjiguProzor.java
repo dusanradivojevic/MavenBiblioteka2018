@@ -42,7 +42,7 @@ public class PronadjiKnjiguProzor extends JFrame {
 	 */
 	public PronadjiKnjiguProzor() {
 		setTitle("Pronadji knjigu");
-		setIconImage(Toolkit.getDefaultToolkit().getImage(PronadjiKnjiguProzor.class.getResource("/icons/bluej-84-toned.jpg")));
+		setIconImage(Toolkit.getDefaultToolkit().getImage(PronadjiKnjiguProzor.class.getResource("/rs/ac/bg/fon/jgrass/icons/bluej-84-toned.jpg")));
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		setLocationRelativeTo(gp);
